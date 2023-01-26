@@ -13,3 +13,5 @@
 
 ## Планы по доработке
 * Добавить новые блоки place
+
+Ссылка на проект на [GitHub](https://github.com/IrinaGarmaeva/russian-travel)
