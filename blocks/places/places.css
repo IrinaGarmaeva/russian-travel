@@ -1,0 +1,41 @@
+.places {
+  margin-top: 92px;
+  padding: 0 148px;
+}
+
+/* @media (max-width: 1024px) {
+  .places {
+    padding: 0 48px;
+  }
+} */
+@media (max-width: 1279px) {
+  .places {
+    padding: 0 11.56%;
+  }
+}
+
+@media (max-width: 1099px) {
+  .places {
+    padding: 0 8%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .places {
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 768px) {
+  .places {
+    padding: 0 24px;
+    margin-top: 88px;
+  }
+}
+
+@media (max-width: 320px) {
+  .places {
+    padding: 0;
+    margin-top: 64px;
+  }
+}

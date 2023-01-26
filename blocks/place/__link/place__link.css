@@ -1,0 +1,12 @@
+
+.place__link {
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 122%;
+}
+
+.place__link:hover {
+  border-bottom: 1px solid #ffffff;
+  transition: border-bottom 1s;
+  /* cursor: pointer;*/
+}

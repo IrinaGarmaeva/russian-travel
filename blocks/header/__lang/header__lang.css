@@ -1,0 +1,3 @@
+.header__lang:not(:last-child) {
+  margin-right: 18px;
+}

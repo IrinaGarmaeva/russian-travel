@@ -1,0 +1,32 @@
+.place__title {
+  grid-area: title;
+  max-width: 460px;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 106%;
+  margin: 0;
+  /* outline: 2px solid red; */
+}
+
+@media (max-width: 900px) {
+  .place__title {
+    font-size: 56px;
+    line-height: 110%;
+  }
+}
+
+@media (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 110%;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__title {
+    font-size: 32px;
+    line-height: 109%;
+    padding: 0 16px;
+  }
+}

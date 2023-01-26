@@ -1,0 +1,13 @@
+.place__website {
+  display: grid;
+  justify-content: start;
+  align-content: end;
+  grid-area: props;
+  /* outline: 2px solid red; */
+}
+
+@media (max-width: 320px) {
+  .place__website {
+    padding: 0 16px;
+  }
+}

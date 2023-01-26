@@ -1,0 +1,4 @@
+.place__block {
+  grid-area: block;
+  /* outline: 2px solid blue; */
+}
