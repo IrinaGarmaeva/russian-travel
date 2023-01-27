@@ -10,5 +10,6 @@
   background-color: #2a2c2f;
   color: #ffffff;
   box-sizing: border-box;
+  min-width: 320px;
   /* margin: 0 auto; */
 }

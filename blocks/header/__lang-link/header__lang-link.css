@@ -2,13 +2,15 @@
   color: #ffffff;
   font-size: 24px;
   line-height: 117%;
-  /* transition: text-decoration 1s ease; */
+  text-decoration: none;
+  transition: text-decoration 1s ease;
 }
 
-/* .header__lang-link:hover {
+.header__lang-link:hover {
   text-decoration: underline;
   transition: text-decoration 1s ease;
-} */
+}
+
 
 @media (max-width: 320px) {
   .header__lang-link {
