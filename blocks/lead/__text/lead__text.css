@@ -1,4 +1,4 @@
-.header__text {
+.lead__text {
   font-size: 10px;
   line-height: 1.4;
   letter-spacing: 1.5px;
@@ -7,13 +7,13 @@
 }
 
 @media (max-width: 768px) {
-  .header__text {
+  .lead__text {
     margin: 8px 0 0 24px;
   }
 }
 
 @media (max-width: 320px) {
-  .header__text {
+  .lead__text {
     margin: 8px 0 0 16px;
   }
 }

@@ -2,4 +2,5 @@
   width: 100%;
   max-height: 460px;
   grid-area: img;
+  object-fit: cover;
 }

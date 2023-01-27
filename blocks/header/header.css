@@ -1,7 +1,6 @@
-.header__wrapper {
+.header {
   width: 100vw;
   max-width: 1280px;
-  max-height: 108px;
   padding: 28px 48px 0;
   margin: 0 auto;
   display: flex;
@@ -11,16 +10,15 @@
 }
 
 @media (max-width: 768px) {
-  .header__wrapper {
+  .header {
     max-width: 100vw;
     padding: 28px 24px 0;
   }
 }
 
 @media (max-width: 320px) {
-  .header__wrapper {
+  .header {
     max-width: 100vw;
-    max-height: 58px;
     padding: 16px 16px 0;
   }
 }

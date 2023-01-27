@@ -2,6 +2,6 @@
   max-width: 1280px;
   min-height: 100%;
   margin: 0 auto;
-  /* overflow: hidden; */
+  min-width: 320px;
   /* outline: 2px dashed yellow; */
 }

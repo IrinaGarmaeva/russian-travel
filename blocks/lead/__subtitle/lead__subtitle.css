@@ -1,4 +1,4 @@
-.header__subtitle {
+.lead__subtitle {
   max-width: 640px;
   font-size: 30px;
   line-height: 120%;
@@ -10,19 +10,19 @@
 }
 
 @media (max-width: 700px) {
-  .header__subtitle {
+  .lead__subtitle {
     font-size: 25px;
   }
 }
 
 @media (max-width: 550px) {
-  .header__subtitle {
+  .lead__subtitle {
     font-size: 20px;
   }
 }
 
 @media (max-width: 320px) {
-  .header__subtitle {
+  .lead__subtitle {
     margin: 16px 0 0;
     font-size: 16px;
     line-height: 125%;

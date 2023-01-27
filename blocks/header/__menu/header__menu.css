@@ -3,9 +3,9 @@
   flex-direction: row;
   align-items: flex-end;
   margin: 0;
-  flex-wrap: no-wrap;
-  /* list-style: none;
-  padding: 0; */
+  /* flex-wrap: nowrap; */
+  list-style: none;
+  padding: 0;
 }
 
 @media (max-width: 320px) {

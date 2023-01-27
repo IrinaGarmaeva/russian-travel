@@ -4,25 +4,23 @@
 @import url('../blocks/page/page.css');
 @import url('../blocks/container/container.css');
 
-@import url('../blocks/header/__wrapper/header__wrapper.css');
+@import url('../blocks/header/header.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__menu/header__menu.css');
-@import url('../blocks/list/list.css');
 @import url('../blocks/header/__lang/header__lang.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
-@import url('../blocks/link/link.css');
-@import url('../blocks/header/__lang-link/header__lang-link_active.css');
-@import url('../blocks/header/__lead/header__lead.css');
-@import url('../blocks/header/__title/header__title.css');
-@import url('../blocks/header/__subtitle/header__subtitle.css');
-@import url('../blocks/header/__pic/header__pic.css');
-@import url('../blocks/header/__text/header__text.css');
+@import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
+
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/lead/__title/lead__title.css');
+@import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__pic/lead__pic.css');
+@import url('../blocks/lead/__text/lead__text.css');
 
 @import url('../blocks/intro/intro.css');
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
-@import url('../blocks/list/list.css');
 @import url('../blocks/intro/__accent/intro__accent.css');
 
 @import url('../blocks/gallery/gallery.css');
@@ -34,20 +32,17 @@
 @import url('../blocks/place/__website/place__website.css');
 @import url('../blocks/place/__url-heading/place__url-heading.css');
 @import url('../blocks/place/__link/place__link.css');
-@import url('../blocks/link/link.css');
 @import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/place/__block/place__block.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
 
 @import url('../blocks/cover/cover.css');
-@import url('../blocks/cover/__overlay/cover__overlay.css');
+@import url('../blocks/cover/__link/cover__link.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__menu/footer__menu.css');
-@import url('../blocks/list/list.css');
 @import url('../blocks/footer/__item/footer__item.css');
 @import url('../blocks/footer/__link/footer__link.css');
-@import url('../blocks/link/link.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');

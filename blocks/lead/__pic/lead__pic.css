@@ -1,17 +1,19 @@
-.header__pic {
+.lead__pic {
   max-width: 984px;
   width: 100%;
   margin: 64px auto 0;
 }
 
 @media (max-width: 1024px) {
-  .header__pic {
+  .lead__pic {
     margin: 56px auto 0;
   }
 }
 
 @media (max-width: 320px) {
-  .header__pic {
+  .lead__pic {
     margin: 40px auto 0;
   }
 }
+
+

@@ -3,10 +3,11 @@
   color: #ffffff;
   font-size: 18px;
   line-height: 122%;
+  opacity: 1;
+  transition: opacity 1s ease;
 }
 
 .place__link:hover {
-  border-bottom: 1px solid #ffffff;
-  transition: border-bottom 1s;
-  /* cursor: pointer;*/
+  opacity: 0.5;
+  transition: opacity 1s ease;
 }
