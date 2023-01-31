@@ -14,6 +14,7 @@
   object-fit: cover;
   min-height: 740px;
   height: 100%;
+  width: 100%;
   /* max-height: calc((100% - (48px + 48px)) / 1.6); */
 }
 
@@ -22,6 +23,13 @@
     min-height: calc((100vw - (48px + 48px)) / 1.6);
   }
 }
+
+@media (max-width: 1024px) {
+  .cover__link {
+    min-height: calc(100vw / 1.6);
+  }
+}
+
 
 .cover__link::after {
   content: "";

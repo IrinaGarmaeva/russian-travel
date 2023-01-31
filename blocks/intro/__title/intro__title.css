@@ -6,6 +6,12 @@
   max-width: 690px;
 }
 
+@media (max-width: 550px) {
+  .intro__title {
+    font-size: 44px;
+  }
+}
+
 @media (max-width: 320px) {
   .intro__title {
     font-size: 32px;

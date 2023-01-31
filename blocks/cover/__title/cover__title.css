@@ -11,15 +11,15 @@
   padding: 0 16px;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 559px) {
   .cover__title {
     font-size: 50px;
   }
 }
 
-@media (max-width: 385px) {
+@media (max-width: 500px) {
   .cover__title {
-    font-size: 42px;
+    font-size: 40px;
   }
 }
 

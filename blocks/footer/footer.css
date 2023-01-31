@@ -4,7 +4,7 @@
   box-sizing: border-box;
   margin-top: 92px;
   margin-bottom: 24px;
-  width: 100vw;
+  width: 100%;
   max-width: 1280px;
   padding: 0 48px;
 }
