@@ -8,13 +8,6 @@
   margin-right: 0px;
 }
 
-@media (max-width: 320px) {
-  .footer__item {
-    font-size: 24px;
-    line-height: 100%;
-  }
-}
-
 @media (max-width: 715px) {
   .footer__item {
     margin: 0 0 32px 0px;
@@ -26,9 +19,7 @@
 
 @media (max-width: 320px) {
   .footer__item {
-    margin: 0 0 32px 0px;
-  }
-  .footer__item:last-of-type {
-    margin-bottom: 0;
+    font-size: 24px;
+    line-height: 100%;
   }
 }
