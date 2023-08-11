@@ -1,17 +1,15 @@
-# Проект: Путешествие по России
-#### Выполнила Гармаева Ирина
+# Edicational purpose project "Russian Travel" from [Yandex Practicum](https://practicum.yandex.ru/) Web-developer course.
 
-#### Простой одностраничный сайт о путешествии по России [по макету Figma ](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+## Description
+This project is a simple adaptive web-site about travelling in Russia to practice HTML, CSS, flexbox, positioning, animations, BEM methodology and HTML semantics.
 
-## Использованные технологии
+## Technologies
 * HTML
 * CSS
+* Flexbox
 * GRID
+* BEM methodology
 
-## Описание проекта
-Учебный проект по адаптивной верстке для отработки знаний html, css: флекс-бокса, грида, позиционирования, методологии БЭМ, семантики html.
+This project is hosted on [GitHub Pages](https://irinagarmaeva.github.io/russian-travel/)
 
-## Планы по доработке
-* Добавить новые блоки place
-
-Ссылка на проект на [GitHub Pages](https://irinagarmaeva.github.io/russian-travel/)
+[Figma layout ](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
