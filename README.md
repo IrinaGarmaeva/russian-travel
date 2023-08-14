@@ -1,4 +1,4 @@
-# Edicational purpose project "Russian Travel" from [Yandex Practicum](https://practicum.yandex.ru/) Web-developer course.
+# Educational purpose project "Russian Travel" from [Yandex Practicum](https://practicum.yandex.ru/) Web-developer course.
 
 ## Description
 This project is a simple adaptive web-site about travelling in Russia to practice HTML, CSS, flexbox, positioning, animations, BEM methodology and HTML semantics.
